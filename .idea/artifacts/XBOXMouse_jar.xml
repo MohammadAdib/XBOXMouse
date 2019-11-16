@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XBOXMouse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XBOXMouse_jar</output-path>
+    <root id="archive" name="XBOXMouse.jar">
+      <element id="module-output" name="jxinput" />
+      <element id="module-output" name="app" />
+    </root>
+  </artifact>
+</component>
